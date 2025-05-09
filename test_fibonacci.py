@@ -1,5 +1,5 @@
 import timeit
- from fibonacci import fibonacci
+from fibonacci import fibonacci
 
  def test_fibonacci () :
  assert fibonacci (0) == 0
